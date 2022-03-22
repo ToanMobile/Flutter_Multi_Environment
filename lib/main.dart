@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(key: Key(""),title: 'Flutter Lesson 2...'),
+      home: MyHomePage(key: Key(""),title: 'Code payment done'),
     );
   }
 }
